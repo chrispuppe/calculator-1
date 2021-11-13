@@ -31,7 +31,7 @@ reader.question("What would you like to calculate?(sqrt for square root) ", func
 			console.log("The answer is: " + Math.sqrt(num1));
 			break;
 		default:
-		  console.log("Sorry, something went wrong.")
+		  console.log("Sorry, something went wrong. Please try again.")
 		  break;
 	}
 
